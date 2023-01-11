@@ -1,0 +1,1010 @@
+Age,Sex,Race,Ethnicity,Observation,Symptom,patient_count
+18-64,male,Black or African American,Hispanic or Latino,Tested positive,Fatigue,521
+18-64,female,Other,Hispanic or Latino,Tested positive,Fatigue,1193
+18-64,female,White,Hispanic or Latino,Tested positive,Fatigue,21658
+18-64,female,American Indian or Alaska Native,Hispanic or Latino,Tested positive,Fatigue,413
+18-64,female,Black or African American,Hispanic or Latino,Tested positive,Fatigue,1359
+18-64,male,Black or African American,Hispanic or Latino,Has not tested positive,Fatigue,576
+18-64,female,White,Hispanic or Latino,Has not tested positive,Fatigue,22356
+18-64,female,Unknown,Hispanic or Latino,Has not tested positive,Fatigue,22130
+18-64,female,Asian,Hispanic or Latino,Has not tested positive,Fatigue,200
+18-64,male,Asian,Hispanic or Latino,Tested positive,Fatigue,82
+18-64,male,Asian,Hispanic or Latino,Has not tested positive,Fatigue,68
+18-64,male,Unknown,Hispanic or Latino,Has not tested positive,Fatigue,9933
+18-64,male,Other,Hispanic or Latino,Has not tested positive,Fatigue,247
+18-64,female,Native Hawaiian or Other Pacific Islander,Hispanic or Latino,Has not tested positive,Fatigue,237
+18-64,female,Native Hawaiian or Other Pacific Islander,Hispanic or Latino,Tested positive,Fatigue,172
+18-64,male,White,Hispanic or Latino,Has not tested positive,Fatigue,9077
+18-64,female,American Indian or Alaska Native,Hispanic or Latino,Has not tested positive,Fatigue,469
+18-64,male,Native Hawaiian or Other Pacific Islander,Hispanic or Latino,Tested positive,Fatigue,72
+18-64,female,Unknown,Hispanic or Latino,Tested positive,Fatigue,17604
+18-64,female,Other,Hispanic or Latino,Has not tested positive,Fatigue,596
+18-64,female,Black or African American,Hispanic or Latino,Has not tested positive,Fatigue,1585
+18-64,male,Other,Hispanic or Latino,Tested positive,Fatigue,541
+18-64,male,Unknown,Hispanic or Latino,Tested positive,Fatigue,7523
+18-64,male,Unknown,Hispanic or Latino,Has U09.9 in Record,Fatigue,238
+18-64,female,Asian,Hispanic or Latino,Tested positive,Fatigue,191
+18-64,female,Unknown,Hispanic or Latino,Has U09.9 in Record,Fatigue,682
+18-64,male,White,Hispanic or Latino,Has U09.9 in Record,Fatigue,228
+18-64,female,White,Hispanic or Latino,Has U09.9 in Record,Fatigue,788
+18-64,female,Black or African American,Hispanic or Latino,Has U09.9 in Record,Fatigue,30
+18-64,male,American Indian or Alaska Native,Hispanic or Latino,Tested positive,Fatigue,157
+18-64,male,White,Hispanic or Latino,Tested positive,Fatigue,8104
+18-64,male,Native Hawaiian or Other Pacific Islander,Hispanic or Latino,Has not tested positive,Fatigue,105
+18-64,male,American Indian or Alaska Native,Hispanic or Latino,Has not tested positive,Fatigue,202
+18-64,female,White,Not Hispanic or Latino,Has U09.9 in Record,Fatigue,8700
+18-64,female,Unknown,Not Hispanic or Latino,Has U09.9 in Record,Fatigue,444
+18-64,male,White,Not Hispanic or Latino,Has U09.9 in Record,Fatigue,3412
+18-64,male,Unknown,Not Hispanic or Latino,Has not tested positive,Fatigue,9762
+18-64,female,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Has not tested positive,Fatigue,537
+18-64,female,Unknown,Not Hispanic or Latino,Has not tested positive,Fatigue,20841
+18-64,female,White,Not Hispanic or Latino,Tested positive,Fatigue,225450
+18-64,male,Asian,Not Hispanic or Latino,Has not tested positive,Fatigue,5572
+18-64,male,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Has not tested positive,Fatigue,269
+18-64,unknown,White,Not Hispanic or Latino,Has not tested positive,Fatigue,64
+18-64,female,Unknown,Not Hispanic or Latino,Tested positive,Fatigue,11414
+18-64,male,White,Not Hispanic or Latino,Tested positive,Fatigue,106670
+18-64,male,American Indian or Alaska Native,Not Hispanic or Latino,Has not tested positive,Fatigue,897
+18-64,male,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Tested positive,Fatigue,192
+18-64,female,Black or African American,Not Hispanic or Latino,Has not tested positive,Fatigue,70900
+18-64,male,Other,Not Hispanic or Latino,Has not tested positive,Fatigue,445
+18-64,male,Asian,Not Hispanic or Latino,Tested positive,Fatigue,3292
+18-64,female,American Indian or Alaska Native,Not Hispanic or Latino,Tested positive,Fatigue,1547
+18-64,female,Black or African American,Not Hispanic or Latino,Tested positive,Fatigue,54645
+18-64,female,Other,Not Hispanic or Latino,Has not tested positive,Fatigue,1237
+18-64,female,American Indian or Alaska Native,Not Hispanic or Latino,Has not tested positive,Fatigue,2153
+18-64,male,American Indian or Alaska Native,Not Hispanic or Latino,Tested positive,Fatigue,624
+18-64,female,Other,Not Hispanic or Latino,Tested positive,Fatigue,1140
+18-64,male,Black or African American,Not Hispanic or Latino,Tested positive,Fatigue,20956
+18-64,male,Black or African American,Not Hispanic or Latino,Has not tested positive,Fatigue,30557
+18-64,female,Asian,Not Hispanic or Latino,Has not tested positive,Fatigue,11546
+18-64,female,White,Not Hispanic or Latino,Has not tested positive,Fatigue,296269
+18-64,unknown,White,Not Hispanic or Latino,Tested positive,Fatigue,30
+18-64,female,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Tested positive,Fatigue,365
+18-64,female,Asian,Not Hispanic or Latino,Tested positive,Fatigue,6957
+18-64,male,Other,Not Hispanic or Latino,Tested positive,Fatigue,562
+18-64,male,White,Not Hispanic or Latino,Has not tested positive,Fatigue,149961
+18-64,male,Unknown,Not Hispanic or Latino,Tested positive,Fatigue,5270
+18-64,male,American Indian or Alaska Native,Not Hispanic or Latino,Has U09.9 in Record,Fatigue,26
+18-64,female,Other,Not Hispanic or Latino,Has U09.9 in Record,Fatigue,37
+18-64,female,Asian,Not Hispanic or Latino,Has U09.9 in Record,Fatigue,266
+18-64,male,Unknown,Not Hispanic or Latino,Has U09.9 in Record,Fatigue,202
+18-64,male,Asian,Not Hispanic or Latino,Has U09.9 in Record,Fatigue,89
+18-64,female,American Indian or Alaska Native,Not Hispanic or Latino,Has U09.9 in Record,Fatigue,66
+18-64,female,Black or African American,Not Hispanic or Latino,Has U09.9 in Record,Fatigue,1889
+18-64,male,Black or African American,Not Hispanic or Latino,Has U09.9 in Record,Fatigue,486
+18-64,male,Other,Unknown,Tested positive,Fatigue,494
+18-64,female,White,Unknown,Has not tested positive,Fatigue,22362
+18-64,male,White,Unknown,Tested positive,Fatigue,9266
+18-64,female,Unknown,Unknown,Has U09.9 in Record,Fatigue,402
+18-64,male,White,Unknown,Has U09.9 in Record,Fatigue,226
+18-64,male,Black or African American,Unknown,Has U09.9 in Record,Fatigue,32
+18-64,male,Unknown,Unknown,Has U09.9 in Record,Fatigue,180
+18-64,female,White,Unknown,Has U09.9 in Record,Fatigue,525
+18-64,male,Asian,Unknown,Tested positive,Fatigue,435
+18-64,female,Black or African American,Unknown,Has U09.9 in Record,Fatigue,137
+18-64,female,Black or African American,Unknown,Tested positive,Fatigue,4057
+18-64,male,Asian,Unknown,Has not tested positive,Fatigue,548
+18-64,female,American Indian or Alaska Native,Unknown,Tested positive,Fatigue,171
+18-64,female,American Indian or Alaska Native,Unknown,Has not tested positive,Fatigue,217
+18-64,male,Native Hawaiian or Other Pacific Islander,Unknown,Tested positive,Fatigue,23
+18-64,male,White,Unknown,Has not tested positive,Fatigue,11973
+18-64,male,American Indian or Alaska Native,Unknown,Has not tested positive,Fatigue,101
+18-64,female,Black or African American,Unknown,Has not tested positive,Fatigue,5007
+18-64,male,Black or African American,Unknown,Tested positive,Fatigue,1801
+18-64,female,Other,Unknown,Tested positive,Fatigue,797
+18-64,unknown,Other,Unknown,Tested positive,Fatigue,21
+18-64,female,Native Hawaiian or Other Pacific Islander,Unknown,Has not tested positive,Fatigue,58
+18-64,female,Unknown,Unknown,Has not tested positive,Fatigue,12202
+18-64,male,Unknown,Unknown,Tested positive,Fatigue,4913
+18-64,female,White,Unknown,Tested positive,Fatigue,17337
+18-64,female,Asian,Unknown,Has not tested positive,Fatigue,1236
+18-64,female,Asian,Unknown,Tested positive,Fatigue,969
+18-64,male,Black or African American,Unknown,Has not tested positive,Fatigue,2355
+18-64,male,American Indian or Alaska Native,Unknown,Tested positive,Fatigue,74
+18-64,unknown,Other,Unknown,Has not tested positive,Fatigue,37
+18-64,female,Native Hawaiian or Other Pacific Islander,Unknown,Tested positive,Fatigue,45
+18-64,unknown,Unknown,Unknown,Tested positive,Fatigue,23
+18-64,male,Native Hawaiian or Other Pacific Islander,Unknown,Has not tested positive,Fatigue,32
+18-64,male,Unknown,Unknown,Has not tested positive,Fatigue,6930
+18-64,unknown,Unknown,Unknown,Has not tested positive,Fatigue,22
+18-64,male,Other,Unknown,Has not tested positive,Fatigue,490
+18-64,female,Other,Unknown,Has not tested positive,Fatigue,969
+18-64,female,Unknown,Unknown,Tested positive,Fatigue,8435
+65+,female,American Indian or Alaska Native,Hispanic or Latino,Tested positive,Fatigue,37
+65+,female,White,Hispanic or Latino,Has not tested positive,Fatigue,4774
+65+,female,Unknown,Hispanic or Latino,Tested positive,Fatigue,3088
+65+,male,White,Hispanic or Latino,Has not tested positive,Fatigue,2896
+65+,female,Native Hawaiian or Other Pacific Islander,Hispanic or Latino,Tested positive,Fatigue,33
+65+,female,American Indian or Alaska Native,Hispanic or Latino,Has not tested positive,Fatigue,58
+65+,male,Unknown,Hispanic or Latino,Tested positive,Fatigue,1787
+65+,female,Other,Hispanic or Latino,Tested positive,Fatigue,144
+65+,female,White,Hispanic or Latino,Tested positive,Fatigue,3114
+65+,female,Black or African American,Hispanic or Latino,Has not tested positive,Fatigue,249
+65+,female,Other,Hispanic or Latino,Has not tested positive,Fatigue,66
+65+,male,Asian,Hispanic or Latino,Has not tested positive,Fatigue,25
+65+,male,Unknown,Hispanic or Latino,Has U09.9 in Record,Fatigue,44
+65+,male,Unknown,Hispanic or Latino,Has not tested positive,Fatigue,2859
+65+,male,Other,Hispanic or Latino,Has not tested positive,Fatigue,46
+65+,male,Black or African American,Hispanic or Latino,Has not tested positive,Fatigue,148
+65+,female,Asian,Hispanic or Latino,Has not tested positive,Fatigue,36
+65+,male,White,Hispanic or Latino,Tested positive,Fatigue,1934
+65+,female,Black or African American,Hispanic or Latino,Tested positive,Fatigue,208
+65+,female,Unknown,Hispanic or Latino,Has not tested positive,Fatigue,4946
+65+,female,Native Hawaiian or Other Pacific Islander,Hispanic or Latino,Has not tested positive,Fatigue,42
+65+,female,Asian,Hispanic or Latino,Tested positive,Fatigue,21
+65+,male,American Indian or Alaska Native,Hispanic or Latino,Has not tested positive,Fatigue,33
+65+,female,White,Hispanic or Latino,Has U09.9 in Record,Fatigue,112
+65+,male,Black or African American,Hispanic or Latino,Tested positive,Fatigue,102
+65+,male,White,Hispanic or Latino,Has U09.9 in Record,Fatigue,41
+65+,female,Unknown,Hispanic or Latino,Has U09.9 in Record,Fatigue,95
+65+,male,Other,Hispanic or Latino,Tested positive,Fatigue,102
+65+,female,Black or African American,Not Hispanic or Latino,Has U09.9 in Record,Fatigue,380
+65+,male,White,Not Hispanic or Latino,Has U09.9 in Record,Fatigue,1804
+65+,male,Black or African American,Not Hispanic or Latino,Has U09.9 in Record,Fatigue,143
+65+,female,White,Not Hispanic or Latino,Has U09.9 in Record,Fatigue,2914
+65+,male,Unknown,Not Hispanic or Latino,Has U09.9 in Record,Fatigue,63
+65+,female,White,Not Hispanic or Latino,Has not tested positive,Fatigue,169743
+65+,male,Unknown,Not Hispanic or Latino,Has not tested positive,Fatigue,6268
+65+,male,White,Not Hispanic or Latino,Tested positive,Fatigue,61621
+65+,female,Other,Not Hispanic or Latino,Tested positive,Fatigue,135
+65+,male,Asian,Not Hispanic or Latino,Tested positive,Fatigue,1108
+65+,male,Black or African American,Not Hispanic or Latino,Tested positive,Fatigue,6666
+65+,male,White,Not Hispanic or Latino,Has not tested positive,Fatigue,123135
+65+,female,White,Not Hispanic or Latino,Tested positive,Fatigue,83674
+65+,male,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Tested positive,Fatigue,63
+65+,male,Asian,Not Hispanic or Latino,Has not tested positive,Fatigue,2610
+65+,male,Unknown,Not Hispanic or Latino,Tested positive,Fatigue,2619
+65+,male,Other,Not Hispanic or Latino,Tested positive,Fatigue,99
+65+,male,Other,Not Hispanic or Latino,Has not tested positive,Fatigue,136
+65+,female,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Tested positive,Fatigue,60
+65+,female,Asian,Not Hispanic or Latino,Tested positive,Fatigue,1547
+65+,female,American Indian or Alaska Native,Not Hispanic or Latino,Has not tested positive,Fatigue,610
+65+,female,Black or African American,Not Hispanic or Latino,Tested positive,Fatigue,13335
+65+,female,Asian,Not Hispanic or Latino,Has not tested positive,Fatigue,3547
+65+,female,Black or African American,Not Hispanic or Latino,Has not tested positive,Fatigue,26906
+65+,male,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Has not tested positive,Fatigue,84
+65+,female,American Indian or Alaska Native,Not Hispanic or Latino,Tested positive,Fatigue,369
+65+,female,Unknown,Not Hispanic or Latino,Tested positive,Fatigue,3747
+65+,male,Black or African American,Not Hispanic or Latino,Has not tested positive,Fatigue,13722
+65+,male,American Indian or Alaska Native,Not Hispanic or Latino,Tested positive,Fatigue,223
+65+,male,American Indian or Alaska Native,Not Hispanic or Latino,Has not tested positive,Fatigue,341
+65+,female,Other,Not Hispanic or Latino,Has not tested positive,Fatigue,185
+65+,female,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Has not tested positive,Fatigue,111
+65+,female,Unknown,Not Hispanic or Latino,Has not tested positive,Fatigue,8520
+65+,female,Unknown,Not Hispanic or Latino,Has U09.9 in Record,Fatigue,91
+65+,female,Asian,Not Hispanic or Latino,Has U09.9 in Record,Fatigue,39
+65+,female,White,Unknown,Tested positive,Fatigue,6804
+65+,female,Asian,Unknown,Has not tested positive,Fatigue,327
+65+,female,White,Unknown,Has U09.9 in Record,Fatigue,132
+65+,male,White,Unknown,Has not tested positive,Fatigue,8118
+65+,female,Unknown,Unknown,Tested positive,Fatigue,1872
+65+,male,Asian,Unknown,Tested positive,Fatigue,129
+65+,male,White,Unknown,Has U09.9 in Record,Fatigue,97
+65+,male,Other,Unknown,Tested positive,Fatigue,120
+65+,male,Black or African American,Unknown,Tested positive,Fatigue,459
+65+,female,White,Unknown,Has not tested positive,Fatigue,10715
+65+,female,Unknown,Unknown,Has U09.9 in Record,Fatigue,91
+65+,male,Unknown,Unknown,Has U09.9 in Record,Fatigue,49
+65+,female,Black or African American,Unknown,Has U09.9 in Record,Fatigue,25
+65+,male,Other,Unknown,Has not tested positive,Fatigue,256
+65+,female,American Indian or Alaska Native,Unknown,Has not tested positive,Fatigue,49
+65+,male,American Indian or Alaska Native,Unknown,Has not tested positive,Fatigue,34
+65+,female,American Indian or Alaska Native,Unknown,Tested positive,Fatigue,41
+65+,female,Other,Unknown,Has not tested positive,Fatigue,260
+65+,female,Asian,Unknown,Tested positive,Fatigue,239
+65+,female,Unknown,Unknown,Has not tested positive,Fatigue,3567
+65+,male,Black or African American,Unknown,Has not tested positive,Fatigue,808
+65+,female,Black or African American,Unknown,Has not tested positive,Fatigue,1430
+65+,female,Black or African American,Unknown,Tested positive,Fatigue,831
+65+,male,Asian,Unknown,Has not tested positive,Fatigue,218
+65+,female,Other,Unknown,Tested positive,Fatigue,138
+65+,male,Unknown,Unknown,Has not tested positive,Fatigue,2715
+65+,male,White,Unknown,Tested positive,Fatigue,5039
+65+,male,Unknown,Unknown,Tested positive,Fatigue,1432
+<18,female,American Indian or Alaska Native,Hispanic or Latino,Has not tested positive,Fatigue,35
+<18,female,White,Hispanic or Latino,Has not tested positive,Fatigue,2198
+<18,male,Unknown,Hispanic or Latino,Tested positive,Fatigue,898
+<18,male,Other,Hispanic or Latino,Tested positive,Fatigue,145
+<18,female,Native Hawaiian or Other Pacific Islander,Hispanic or Latino,Has not tested positive,Fatigue,22
+<18,male,Black or African American,Hispanic or Latino,Tested positive,Fatigue,89
+<18,male,Unknown,Hispanic or Latino,Has not tested positive,Fatigue,1804
+<18,female,Unknown,Hispanic or Latino,Tested positive,Fatigue,1039
+<18,female,White,Hispanic or Latino,Tested positive,Fatigue,1355
+<18,female,Black or African American,Hispanic or Latino,Tested positive,Fatigue,110
+<18,female,Unknown,Hispanic or Latino,Has U09.9 in Record,Fatigue,25
+<18,female,Other,Hispanic or Latino,Tested positive,Fatigue,171
+<18,female,Unknown,Hispanic or Latino,Has not tested positive,Fatigue,2057
+<18,female,Other,Hispanic or Latino,Has not tested positive,Fatigue,227
+<18,male,Other,Hispanic or Latino,Has not tested positive,Fatigue,224
+<18,male,Black or African American,Hispanic or Latino,Has not tested positive,Fatigue,158
+<18,male,American Indian or Alaska Native,Hispanic or Latino,Has not tested positive,Fatigue,27
+<18,female,American Indian or Alaska Native,Hispanic or Latino,Tested positive,Fatigue,21
+<18,male,White,Hispanic or Latino,Tested positive,Fatigue,1036
+<18,male,White,Hispanic or Latino,Has not tested positive,Fatigue,1709
+<18,female,Black or African American,Hispanic or Latino,Has not tested positive,Fatigue,164
+<18,female,Black or African American,Not Hispanic or Latino,Has U09.9 in Record,Fatigue,29
+<18,female,White,Not Hispanic or Latino,Has U09.9 in Record,Fatigue,230
+<18,male,White,Not Hispanic or Latino,Has U09.9 in Record,Fatigue,166
+<18,male,American Indian or Alaska Native,Not Hispanic or Latino,Has not tested positive,Fatigue,91
+<18,female,White,Not Hispanic or Latino,Tested positive,Fatigue,10366
+<18,male,White,Not Hispanic or Latino,Tested positive,Fatigue,8886
+<18,female,Unknown,Not Hispanic or Latino,Has not tested positive,Fatigue,1231
+<18,male,Asian,Not Hispanic or Latino,Has not tested positive,Fatigue,594
+<18,male,Unknown,Not Hispanic or Latino,Has not tested positive,Fatigue,1252
+<18,female,American Indian or Alaska Native,Not Hispanic or Latino,Tested positive,Fatigue,55
+<18,female,Unknown,Not Hispanic or Latino,Tested positive,Fatigue,578
+<18,female,Black or African American,Not Hispanic or Latino,Tested positive,Fatigue,2244
+<18,female,Other,Not Hispanic or Latino,Has not tested positive,Fatigue,230
+<18,female,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Has not tested positive,Fatigue,29
+<18,female,American Indian or Alaska Native,Not Hispanic or Latino,Has not tested positive,Fatigue,105
+<18,male,American Indian or Alaska Native,Not Hispanic or Latino,Tested positive,Fatigue,39
+<18,female,Asian,Not Hispanic or Latino,Has not tested positive,Fatigue,649
+<18,female,Asian,Not Hispanic or Latino,Tested positive,Fatigue,302
+<18,male,White,Not Hispanic or Latino,Has not tested positive,Fatigue,15920
+<18,female,White,Not Hispanic or Latino,Has not tested positive,Fatigue,17704
+<18,male,Other,Not Hispanic or Latino,Tested positive,Fatigue,136
+<18,female,Black or African American,Not Hispanic or Latino,Has not tested positive,Fatigue,4038
+<18,male,Unknown,Not Hispanic or Latino,Tested positive,Fatigue,519
+<18,male,Other,Not Hispanic or Latino,Has not tested positive,Fatigue,192
+<18,male,Asian,Not Hispanic or Latino,Tested positive,Fatigue,297
+<18,male,Black or African American,Not Hispanic or Latino,Has not tested positive,Fatigue,3911
+<18,male,Black or African American,Not Hispanic or Latino,Tested positive,Fatigue,2076
+<18,female,Other,Not Hispanic or Latino,Tested positive,Fatigue,183
+<18,male,Black or African American,Not Hispanic or Latino,Has U09.9 in Record,Fatigue,33
+<18,female,Unknown,Unknown,Tested positive,Fatigue,671
+<18,female,Other,Unknown,Tested positive,Fatigue,56
+<18,male,Unknown,Unknown,Tested positive,Fatigue,558
+<18,female,Asian,Unknown,Tested positive,Fatigue,61
+<18,male,Other,Unknown,Has not tested positive,Fatigue,49
+<18,female,Asian,Unknown,Has not tested positive,Fatigue,87
+<18,male,Asian,Unknown,Tested positive,Fatigue,45
+<18,male,Asian,Unknown,Has not tested positive,Fatigue,71
+<18,female,Unknown,Unknown,Has not tested positive,Fatigue,1283
+<18,female,Other,Unknown,Has not tested positive,Fatigue,57
+<18,male,White,Unknown,Has not tested positive,Fatigue,1647
+<18,male,Unknown,Unknown,Has not tested positive,Fatigue,1127
+<18,male,White,Unknown,Tested positive,Fatigue,892
+<18,male,Black or African American,Unknown,Has not tested positive,Fatigue,484
+<18,male,Other,Unknown,Tested positive,Fatigue,38
+<18,female,Black or African American,Unknown,Tested positive,Fatigue,219
+<18,female,White,Unknown,Tested positive,Fatigue,980
+<18,male,Black or African American,Unknown,Tested positive,Fatigue,239
+<18,female,White,Unknown,Has not tested positive,Fatigue,1872
+<18,female,Black or African American,Unknown,Has not tested positive,Fatigue,481
+Unknown,female,Unknown,Hispanic or Latino,Tested positive,Fatigue,213
+Unknown,female,Unknown,Hispanic or Latino,Has not tested positive,Fatigue,290
+Unknown,male,Unknown,Hispanic or Latino,Has not tested positive,Fatigue,184
+Unknown,male,Unknown,Hispanic or Latino,Tested positive,Fatigue,141
+Unknown,female,Black or African American,Hispanic or Latino,Has not tested positive,Fatigue,25
+Unknown,female,White,Hispanic or Latino,Tested positive,Fatigue,278
+Unknown,male,White,Hispanic or Latino,Has not tested positive,Fatigue,218
+Unknown,female,White,Hispanic or Latino,Has not tested positive,Fatigue,318
+Unknown,male,White,Hispanic or Latino,Tested positive,Fatigue,147
+Unknown,female,Black or African American,Not Hispanic or Latino,Has U09.9 in Record,Fatigue,48
+Unknown,female,Black or African American,Not Hispanic or Latino,Tested positive,Fatigue,1045
+Unknown,female,Unknown,Not Hispanic or Latino,Has not tested positive,Fatigue,215
+Unknown,male,Black or African American,Not Hispanic or Latino,Has not tested positive,Fatigue,1025
+Unknown,female,Asian,Not Hispanic or Latino,Has not tested positive,Fatigue,184
+Unknown,female,White,Not Hispanic or Latino,Has not tested positive,Fatigue,8327
+Unknown,female,Unknown,Not Hispanic or Latino,Tested positive,Fatigue,95
+Unknown,female,White,Not Hispanic or Latino,Tested positive,Fatigue,4983
+Unknown,male,Asian,Not Hispanic or Latino,Tested positive,Fatigue,67
+Unknown,male,White,Not Hispanic or Latino,Tested positive,Fatigue,3494
+Unknown,male,Asian,Not Hispanic or Latino,Has not tested positive,Fatigue,122
+Unknown,male,Black or African American,Not Hispanic or Latino,Tested positive,Fatigue,529
+Unknown,female,American Indian or Alaska Native,Not Hispanic or Latino,Tested positive,Fatigue,30
+Unknown,male,Unknown,Not Hispanic or Latino,Has not tested positive,Fatigue,189
+Unknown,male,American Indian or Alaska Native,Not Hispanic or Latino,Has not tested positive,Fatigue,38
+Unknown,male,White,Not Hispanic or Latino,Has not tested positive,Fatigue,5776
+Unknown,female,Black or African American,Not Hispanic or Latino,Has not tested positive,Fatigue,1770
+Unknown,male,Unknown,Not Hispanic or Latino,Tested positive,Fatigue,93
+Unknown,female,Asian,Not Hispanic or Latino,Tested positive,Fatigue,101
+Unknown,female,American Indian or Alaska Native,Not Hispanic or Latino,Has not tested positive,Fatigue,46
+Unknown,female,White,Not Hispanic or Latino,Has U09.9 in Record,Fatigue,220
+Unknown,male,White,Not Hispanic or Latino,Has U09.9 in Record,Fatigue,139
+Unknown,female,Asian,Unknown,Tested positive,Fatigue,28
+Unknown,female,Black or African American,Unknown,Has not tested positive,Fatigue,126
+Unknown,female,Asian,Unknown,Has not tested positive,Fatigue,48
+Unknown,male,White,Unknown,Has not tested positive,Fatigue,772
+Unknown,male,Unknown,Unknown,Tested positive,Fatigue,137
+Unknown,female,Black or African American,Unknown,Tested positive,Fatigue,79
+Unknown,female,White,Unknown,Has not tested positive,Fatigue,1225
+Unknown,male,Black or African American,Unknown,Tested positive,Fatigue,44
+Unknown,female,Unknown,Unknown,Tested positive,Fatigue,147
+Unknown,male,White,Unknown,Tested positive,Fatigue,625
+Unknown,female,Unknown,Unknown,Has not tested positive,Fatigue,237
+Unknown,male,Black or African American,Unknown,Has not tested positive,Fatigue,66
+Unknown,male,Unknown,Unknown,Has not tested positive,Fatigue,190
+Unknown,male,Asian,Unknown,Has not tested positive,Fatigue,32
+Unknown,female,White,Unknown,Tested positive,Fatigue,1103
+18-64,male,White,Hispanic or Latino,Has U09.9 in Record,Mental Health Condition,328
+18-64,female,Unknown,Hispanic or Latino,Has U09.9 in Record,Mental Health Condition,857
+18-64,female,Black or African American,Hispanic or Latino,Has U09.9 in Record,Mental Health Condition,55
+18-64,male,Unknown,Hispanic or Latino,Has U09.9 in Record,Mental Health Condition,397
+18-64,female,American Indian or Alaska Native,Hispanic or Latino,Has U09.9 in Record,Mental Health Condition,22
+18-64,male,Other,Hispanic or Latino,Has not tested positive,Mental Health Condition,1173
+18-64,male,White,Hispanic or Latino,Tested positive,Mental Health Condition,18484
+18-64,female,Asian,Hispanic or Latino,Tested positive,Mental Health Condition,195
+18-64,female,Other,Hispanic or Latino,Tested positive,Mental Health Condition,849
+18-64,female,Unknown,Hispanic or Latino,Has not tested positive,Mental Health Condition,56350
+18-64,female,Unknown,Hispanic or Latino,Tested positive,Mental Health Condition,33586
+18-64,male,Black or African American,Hispanic or Latino,Has not tested positive,Mental Health Condition,2605
+18-64,male,Native Hawaiian or Other Pacific Islander,Hispanic or Latino,Tested positive,Mental Health Condition,225
+18-64,female,Other,Hispanic or Latino,Has not tested positive,Mental Health Condition,1773
+18-64,male,Unknown,Hispanic or Latino,Has not tested positive,Mental Health Condition,39192
+18-64,female,Black or African American,Hispanic or Latino,Tested positive,Mental Health Condition,2906
+18-64,female,American Indian or Alaska Native,Hispanic or Latino,Tested positive,Mental Health Condition,842
+18-64,male,Unknown,Hispanic or Latino,Tested positive,Mental Health Condition,19143
+18-64,female,White,Hispanic or Latino,Has not tested positive,Mental Health Condition,58390
+18-64,male,American Indian or Alaska Native,Hispanic or Latino,Tested positive,Mental Health Condition,421
+18-64,female,Native Hawaiian or Other Pacific Islander,Hispanic or Latino,Has not tested positive,Mental Health Condition,701
+18-64,male,Black or African American,Hispanic or Latino,Tested positive,Mental Health Condition,1349
+18-64,male,Asian,Hispanic or Latino,Tested positive,Mental Health Condition,104
+18-64,male,Native Hawaiian or Other Pacific Islander,Hispanic or Latino,Has not tested positive,Mental Health Condition,430
+18-64,female,American Indian or Alaska Native,Hispanic or Latino,Has not tested positive,Mental Health Condition,1321
+18-64,male,Asian,Hispanic or Latino,Has not tested positive,Mental Health Condition,239
+18-64,male,White,Hispanic or Latino,Has not tested positive,Mental Health Condition,33680
+18-64,male,Other,Hispanic or Latino,Tested positive,Mental Health Condition,480
+18-64,female,Asian,Hispanic or Latino,Has not tested positive,Mental Health Condition,415
+18-64,female,Black or African American,Hispanic or Latino,Has not tested positive,Mental Health Condition,5001
+18-64,female,Native Hawaiian or Other Pacific Islander,Hispanic or Latino,Tested positive,Mental Health Condition,406
+18-64,male,American Indian or Alaska Native,Hispanic or Latino,Has not tested positive,Mental Health Condition,776
+18-64,female,White,Hispanic or Latino,Tested positive,Mental Health Condition,39501
+18-64,female,White,Hispanic or Latino,Has U09.9 in Record,Mental Health Condition,1044
+18-64,male,Black or African American,Hispanic or Latino,Has U09.9 in Record,Mental Health Condition,28
+18-64,unknown,Black or African American,Not Hispanic or Latino,Has not tested positive,Mental Health Condition,40
+18-64,female,Other,Not Hispanic or Latino,Has U09.9 in Record,Mental Health Condition,68
+18-64,female,American Indian or Alaska Native,Not Hispanic or Latino,Has U09.9 in Record,Mental Health Condition,101
+18-64,female,Black or African American,Not Hispanic or Latino,Has U09.9 in Record,Mental Health Condition,2546
+18-64,female,Asian,Not Hispanic or Latino,Has U09.9 in Record,Mental Health Condition,248
+18-64,male,American Indian or Alaska Native,Not Hispanic or Latino,Has U09.9 in Record,Mental Health Condition,44
+18-64,male,Black or African American,Not Hispanic or Latino,Has U09.9 in Record,Mental Health Condition,788
+18-64,male,White,Not Hispanic or Latino,Has U09.9 in Record,Mental Health Condition,4576
+18-64,male,Asian,Not Hispanic or Latino,Tested positive,Mental Health Condition,5104
+18-64,female,Unknown,Not Hispanic or Latino,Has U09.9 in Record,Mental Health Condition,477
+18-64,male,Other,Not Hispanic or Latino,Tested positive,Mental Health Condition,849
+18-64,female,White,Not Hispanic or Latino,Has U09.9 in Record,Mental Health Condition,10568
+18-64,unknown,White,Not Hispanic or Latino,Has not tested positive,Mental Health Condition,223
+18-64,male,White,Not Hispanic or Latino,Has not tested positive,Mental Health Condition,501797
+18-64,male,Black or African American,Not Hispanic or Latino,Has not tested positive,Mental Health Condition,153835
+18-64,unknown,White,Not Hispanic or Latino,Tested positive,Mental Health Condition,63
+18-64,female,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Tested positive,Mental Health Condition,710
+18-64,unknown,Unknown,Not Hispanic or Latino,Has not tested positive,Mental Health Condition,33
+18-64,female,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Has not tested positive,Mental Health Condition,1423
+18-64,male,White,Not Hispanic or Latino,Tested positive,Mental Health Condition,186162
+18-64,female,Black or African American,Not Hispanic or Latino,Has not tested positive,Mental Health Condition,221249
+18-64,female,Unknown,Not Hispanic or Latino,Has not tested positive,Mental Health Condition,45477
+18-64,male,Unknown,Not Hispanic or Latino,Has not tested positive,Mental Health Condition,31124
+18-64,female,American Indian or Alaska Native,Not Hispanic or Latino,Tested positive,Mental Health Condition,3475
+18-64,female,White,Not Hispanic or Latino,Tested positive,Mental Health Condition,329780
+18-64,male,Other,Not Hispanic or Latino,Has not tested positive,Mental Health Condition,2322
+18-64,male,Unknown,Not Hispanic or Latino,Tested positive,Mental Health Condition,11714
+18-64,male,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Tested positive,Mental Health Condition,464
+18-64,female,Black or African American,Not Hispanic or Latino,Tested positive,Mental Health Condition,100535
+18-64,female,Asian,Not Hispanic or Latino,Tested positive,Mental Health Condition,8804
+18-64,male,Black or African American,Not Hispanic or Latino,Tested positive,Mental Health Condition,53217
+18-64,female,Other,Not Hispanic or Latino,Has not tested positive,Mental Health Condition,3963
+18-64,male,Asian,Not Hispanic or Latino,Has not tested positive,Mental Health Condition,13657
+18-64,male,Unknown,Not Hispanic or Latino,Has U09.9 in Record,Mental Health Condition,250
+18-64,male,Asian,Not Hispanic or Latino,Has U09.9 in Record,Mental Health Condition,116
+18-64,female,Other,Not Hispanic or Latino,Tested positive,Mental Health Condition,1631
+18-64,female,American Indian or Alaska Native,Not Hispanic or Latino,Has not tested positive,Mental Health Condition,6665
+18-64,male,American Indian or Alaska Native,Not Hispanic or Latino,Tested positive,Mental Health Condition,1678
+18-64,female,Unknown,Not Hispanic or Latino,Tested positive,Mental Health Condition,19273
+18-64,male,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Has not tested positive,Mental Health Condition,1068
+18-64,female,Asian,Not Hispanic or Latino,Has not tested positive,Mental Health Condition,21218
+18-64,female,White,Not Hispanic or Latino,Has not tested positive,Mental Health Condition,759592
+18-64,male,American Indian or Alaska Native,Not Hispanic or Latino,Has not tested positive,Mental Health Condition,3871
+18-64,male,White,Unknown,Has not tested positive,Mental Health Condition,21813
+18-64,male,Black or African American,Unknown,Tested positive,Mental Health Condition,3099
+18-64,female,White,Unknown,Tested positive,Mental Health Condition,15177
+18-64,female,Native Hawaiian or Other Pacific Islander,Unknown,Tested positive,Mental Health Condition,49
+18-64,unknown,Unknown,Unknown,Tested positive,Mental Health Condition,46
+18-64,male,White,Unknown,Has U09.9 in Record,Mental Health Condition,293
+18-64,female,Black or African American,Unknown,Has U09.9 in Record,Mental Health Condition,153
+18-64,female,Black or African American,Unknown,Tested positive,Mental Health Condition,4548
+18-64,female,Black or African American,Unknown,Has not tested positive,Mental Health Condition,8745
+18-64,male,American Indian or Alaska Native,Unknown,Has not tested positive,Mental Health Condition,187
+18-64,male,American Indian or Alaska Native,Unknown,Tested positive,Mental Health Condition,90
+18-64,female,Asian,Unknown,Tested positive,Mental Health Condition,550
+18-64,unknown,Other,Unknown,Tested positive,Mental Health Condition,22
+18-64,male,Asian,Unknown,Has not tested positive,Mental Health Condition,755
+18-64,female,American Indian or Alaska Native,Unknown,Has not tested positive,Mental Health Condition,218
+18-64,male,Native Hawaiian or Other Pacific Islander,Unknown,Tested positive,Mental Health Condition,44
+18-64,male,Unknown,Unknown,Has not tested positive,Mental Health Condition,18288
+18-64,female,White,Unknown,Has not tested positive,Mental Health Condition,27830
+18-64,male,Unknown,Unknown,Has U09.9 in Record,Mental Health Condition,219
+18-64,female,Unknown,Unknown,Has U09.9 in Record,Mental Health Condition,452
+18-64,female,White,Unknown,Has U09.9 in Record,Mental Health Condition,611
+18-64,female,Other,Unknown,Has U09.9 in Record,Mental Health Condition,32
+18-64,male,Black or African American,Unknown,Has U09.9 in Record,Mental Health Condition,56
+18-64,female,Other,Unknown,Has not tested positive,Mental Health Condition,3075
+18-64,unknown,Other,Unknown,Has not tested positive,Mental Health Condition,95
+18-64,male,Other,Unknown,Has not tested positive,Mental Health Condition,2101
+18-64,female,Asian,Unknown,Has not tested positive,Mental Health Condition,1067
+18-64,female,Native Hawaiian or Other Pacific Islander,Unknown,Has not tested positive,Mental Health Condition,91
+18-64,male,Black or African American,Unknown,Has not tested positive,Mental Health Condition,8601
+18-64,male,Other,Unknown,Tested positive,Mental Health Condition,813
+18-64,female,Other,Unknown,Tested positive,Mental Health Condition,1209
+18-64,male,White,Unknown,Tested positive,Mental Health Condition,10087
+18-64,female,American Indian or Alaska Native,Unknown,Tested positive,Mental Health Condition,130
+18-64,male,Asian,Unknown,Tested positive,Mental Health Condition,393
+18-64,male,Unknown,Unknown,Tested positive,Mental Health Condition,10130
+18-64,male,Native Hawaiian or Other Pacific Islander,Unknown,Has not tested positive,Mental Health Condition,75
+18-64,unknown,Unknown,Unknown,Has not tested positive,Mental Health Condition,66
+18-64,female,Unknown,Unknown,Has not tested positive,Mental Health Condition,23659
+18-64,female,Unknown,Unknown,Tested positive,Mental Health Condition,14859
+65+,female,Unknown,Hispanic or Latino,Has U09.9 in Record,Mental Health Condition,137
+65+,male,Unknown,Hispanic or Latino,Has not tested positive,Mental Health Condition,7133
+65+,female,Unknown,Hispanic or Latino,Tested positive,Mental Health Condition,5677
+65+,male,White,Hispanic or Latino,Has not tested positive,Mental Health Condition,7065
+65+,male,Black or African American,Hispanic or Latino,Tested positive,Mental Health Condition,243
+65+,female,Black or African American,Hispanic or Latino,Tested positive,Mental Health Condition,378
+65+,female,American Indian or Alaska Native,Hispanic or Latino,Has not tested positive,Mental Health Condition,159
+65+,male,Other,Hispanic or Latino,Tested positive,Mental Health Condition,64
+65+,female,White,Hispanic or Latino,Has not tested positive,Mental Health Condition,10250
+65+,male,Native Hawaiian or Other Pacific Islander,Hispanic or Latino,Has not tested positive,Mental Health Condition,66
+65+,male,Asian,Hispanic or Latino,Has not tested positive,Mental Health Condition,42
+65+,male,American Indian or Alaska Native,Hispanic or Latino,Tested positive,Mental Health Condition,37
+65+,male,Native Hawaiian or Other Pacific Islander,Hispanic or Latino,Tested positive,Mental Health Condition,36
+65+,male,American Indian or Alaska Native,Hispanic or Latino,Has not tested positive,Mental Health Condition,106
+65+,female,Other,Hispanic or Latino,Tested positive,Mental Health Condition,70
+65+,female,Unknown,Hispanic or Latino,Has not tested positive,Mental Health Condition,10596
+65+,male,Other,Hispanic or Latino,Has not tested positive,Mental Health Condition,119
+65+,female,Native Hawaiian or Other Pacific Islander,Hispanic or Latino,Tested positive,Mental Health Condition,50
+65+,female,Asian,Hispanic or Latino,Tested positive,Mental Health Condition,27
+65+,female,Black or African American,Hispanic or Latino,Has not tested positive,Mental Health Condition,675
+65+,female,Other,Hispanic or Latino,Has not tested positive,Mental Health Condition,143
+65+,female,White,Hispanic or Latino,Tested positive,Mental Health Condition,5760
+65+,female,Native Hawaiian or Other Pacific Islander,Hispanic or Latino,Has not tested positive,Mental Health Condition,96
+65+,male,White,Hispanic or Latino,Tested positive,Mental Health Condition,3578
+65+,male,Black or African American,Hispanic or Latino,Has not tested positive,Mental Health Condition,451
+65+,male,Unknown,Hispanic or Latino,Tested positive,Mental Health Condition,3686
+65+,female,American Indian or Alaska Native,Hispanic or Latino,Tested positive,Mental Health Condition,63
+65+,female,Asian,Hispanic or Latino,Has not tested positive,Mental Health Condition,62
+65+,female,White,Hispanic or Latino,Has U09.9 in Record,Mental Health Condition,153
+65+,male,White,Hispanic or Latino,Has U09.9 in Record,Mental Health Condition,66
+65+,male,Unknown,Hispanic or Latino,Has U09.9 in Record,Mental Health Condition,84
+65+,male,Other,Not Hispanic or Latino,Has not tested positive,Mental Health Condition,311
+65+,male,American Indian or Alaska Native,Not Hispanic or Latino,Has not tested positive,Mental Health Condition,955
+65+,male,Black or African American,Not Hispanic or Latino,Has U09.9 in Record,Mental Health Condition,193
+65+,male,White,Not Hispanic or Latino,Has U09.9 in Record,Mental Health Condition,2111
+65+,male,Unknown,Not Hispanic or Latino,Has U09.9 in Record,Mental Health Condition,86
+65+,female,Black or African American,Not Hispanic or Latino,Has U09.9 in Record,Mental Health Condition,519
+65+,female,Other,Not Hispanic or Latino,Has not tested positive,Mental Health Condition,441
+65+,female,Unknown,Not Hispanic or Latino,Has U09.9 in Record,Mental Health Condition,105
+65+,male,Asian,Not Hispanic or Latino,Has U09.9 in Record,Mental Health Condition,28
+65+,female,Asian,Not Hispanic or Latino,Has U09.9 in Record,Mental Health Condition,43
+65+,female,White,Not Hispanic or Latino,Has U09.9 in Record,Mental Health Condition,3324
+65+,female,Asian,Not Hispanic or Latino,Has not tested positive,Mental Health Condition,6027
+65+,male,Unknown,Not Hispanic or Latino,Has not tested positive,Mental Health Condition,10664
+65+,female,American Indian or Alaska Native,Not Hispanic or Latino,Tested positive,Mental Health Condition,783
+65+,male,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Tested positive,Mental Health Condition,87
+65+,male,Black or African American,Not Hispanic or Latino,Tested positive,Mental Health Condition,13844
+65+,female,Black or African American,Not Hispanic or Latino,Has not tested positive,Mental Health Condition,59289
+65+,male,Black or African American,Not Hispanic or Latino,Has not tested positive,Mental Health Condition,40522
+65+,female,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Has not tested positive,Mental Health Condition,228
+65+,male,White,Not Hispanic or Latino,Has not tested positive,Mental Health Condition,243317
+65+,male,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Has not tested positive,Mental Health Condition,179
+65+,male,Other,Not Hispanic or Latino,Tested positive,Mental Health Condition,105
+65+,female,American Indian or Alaska Native,Not Hispanic or Latino,Has U09.9 in Record,Mental Health Condition,25
+65+,male,White,Not Hispanic or Latino,Tested positive,Mental Health Condition,81848
+65+,male,Asian,Not Hispanic or Latino,Has not tested positive,Mental Health Condition,4886
+65+,male,American Indian or Alaska Native,Not Hispanic or Latino,Tested positive,Mental Health Condition,444
+65+,male,Unknown,Not Hispanic or Latino,Tested positive,Mental Health Condition,4431
+65+,female,Other,Not Hispanic or Latino,Tested positive,Mental Health Condition,144
+65+,female,White,Not Hispanic or Latino,Has not tested positive,Mental Health Condition,328363
+65+,female,White,Not Hispanic or Latino,Tested positive,Mental Health Condition,112591
+65+,female,Unknown,Not Hispanic or Latino,Tested positive,Mental Health Condition,6262
+65+,female,Unknown,Not Hispanic or Latino,Has not tested positive,Mental Health Condition,14232
+65+,female,Black or African American,Not Hispanic or Latino,Tested positive,Mental Health Condition,22401
+65+,male,Asian,Not Hispanic or Latino,Tested positive,Mental Health Condition,1944
+65+,female,American Indian or Alaska Native,Not Hispanic or Latino,Has not tested positive,Mental Health Condition,1437
+65+,female,Asian,Not Hispanic or Latino,Tested positive,Mental Health Condition,2549
+65+,female,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Tested positive,Mental Health Condition,90
+65+,male,Asian,Unknown,Has not tested positive,Mental Health Condition,302
+65+,female,Black or African American,Unknown,Tested positive,Mental Health Condition,803
+65+,unknown,Unknown,Unknown,Has not tested positive,Mental Health Condition,24
+65+,female,American Indian or Alaska Native,Unknown,Has not tested positive,Mental Health Condition,38
+65+,male,Unknown,Unknown,Has U09.9 in Record,Mental Health Condition,62
+65+,male,White,Unknown,Has U09.9 in Record,Mental Health Condition,118
+65+,female,Other,Unknown,Has not tested positive,Mental Health Condition,696
+65+,male,Other,Unknown,Has not tested positive,Mental Health Condition,678
+65+,female,Black or African American,Unknown,Has not tested positive,Mental Health Condition,1807
+65+,female,White,Unknown,Has U09.9 in Record,Mental Health Condition,159
+65+,female,Unknown,Unknown,Tested positive,Mental Health Condition,4543
+65+,female,American Indian or Alaska Native,Unknown,Tested positive,Mental Health Condition,27
+65+,male,Asian,Unknown,Tested positive,Mental Health Condition,146
+65+,female,Unknown,Unknown,Has U09.9 in Record,Mental Health Condition,109
+65+,female,Unknown,Unknown,Has not tested positive,Mental Health Condition,7860
+65+,male,White,Unknown,Tested positive,Mental Health Condition,3831
+65+,female,Asian,Unknown,Has not tested positive,Mental Health Condition,341
+65+,male,Unknown,Unknown,Has not tested positive,Mental Health Condition,5836
+65+,male,American Indian or Alaska Native,Unknown,Has not tested positive,Mental Health Condition,44
+65+,male,Other,Unknown,Tested positive,Mental Health Condition,177
+65+,female,Black or African American,Unknown,Has U09.9 in Record,Mental Health Condition,29
+65+,female,Other,Unknown,Tested positive,Mental Health Condition,220
+65+,male,Unknown,Unknown,Tested positive,Mental Health Condition,3354
+65+,female,Asian,Unknown,Tested positive,Mental Health Condition,146
+65+,female,White,Unknown,Tested positive,Mental Health Condition,4897
+65+,female,White,Unknown,Has not tested positive,Mental Health Condition,10771
+65+,male,White,Unknown,Has not tested positive,Mental Health Condition,8471
+65+,male,Black or African American,Unknown,Has not tested positive,Mental Health Condition,1273
+65+,male,Black or African American,Unknown,Tested positive,Mental Health Condition,482
+<18,female,White,Hispanic or Latino,Has U09.9 in Record,Mental Health Condition,42
+<18,male,Unknown,Hispanic or Latino,Has U09.9 in Record,Mental Health Condition,31
+<18,female,Asian,Hispanic or Latino,Has not tested positive,Mental Health Condition,171
+<18,male,Black or African American,Hispanic or Latino,Has not tested positive,Mental Health Condition,2155
+<18,male,Asian,Hispanic or Latino,Has not tested positive,Mental Health Condition,189
+<18,male,Unknown,Hispanic or Latino,Tested positive,Mental Health Condition,6484
+<18,female,White,Hispanic or Latino,Has not tested positive,Mental Health Condition,16280
+<18,female,American Indian or Alaska Native,Hispanic or Latino,Tested positive,Mental Health Condition,93
+<18,female,White,Hispanic or Latino,Tested positive,Mental Health Condition,6751
+<18,female,Black or African American,Hispanic or Latino,Has not tested positive,Mental Health Condition,1677
+<18,male,American Indian or Alaska Native,Hispanic or Latino,Tested positive,Mental Health Condition,110
+<18,male,Asian,Hispanic or Latino,Tested positive,Mental Health Condition,71
+<18,female,Native Hawaiian or Other Pacific Islander,Hispanic or Latino,Has not tested positive,Mental Health Condition,144
+<18,female,Unknown,Hispanic or Latino,Has not tested positive,Mental Health Condition,13571
+<18,male,American Indian or Alaska Native,Hispanic or Latino,Has not tested positive,Mental Health Condition,320
+<18,female,Black or African American,Hispanic or Latino,Tested positive,Mental Health Condition,664
+<18,male,Native Hawaiian or Other Pacific Islander,Hispanic or Latino,Has not tested positive,Mental Health Condition,173
+<18,male,White,Hispanic or Latino,Tested positive,Mental Health Condition,8113
+<18,female,Other,Hispanic or Latino,Tested positive,Mental Health Condition,1340
+<18,male,Black or African American,Hispanic or Latino,Tested positive,Mental Health Condition,849
+<18,male,Other,Hispanic or Latino,Has not tested positive,Mental Health Condition,4114
+<18,male,Unknown,Hispanic or Latino,Has not tested positive,Mental Health Condition,17081
+<18,female,Other,Hispanic or Latino,Has not tested positive,Mental Health Condition,3816
+<18,female,American Indian or Alaska Native,Hispanic or Latino,Has not tested positive,Mental Health Condition,262
+<18,male,White,Hispanic or Latino,Has not tested positive,Mental Health Condition,20354
+<18,male,Native Hawaiian or Other Pacific Islander,Hispanic or Latino,Tested positive,Mental Health Condition,51
+<18,female,Asian,Hispanic or Latino,Tested positive,Mental Health Condition,69
+<18,male,Other,Hispanic or Latino,Tested positive,Mental Health Condition,1629
+<18,female,Native Hawaiian or Other Pacific Islander,Hispanic or Latino,Tested positive,Mental Health Condition,42
+<18,female,Unknown,Hispanic or Latino,Tested positive,Mental Health Condition,5319
+<18,male,White,Hispanic or Latino,Has U09.9 in Record,Mental Health Condition,40
+<18,female,Unknown,Hispanic or Latino,Has U09.9 in Record,Mental Health Condition,33
+<18,male,Unknown,Not Hispanic or Latino,Has not tested positive,Mental Health Condition,8690
+<18,female,White,Not Hispanic or Latino,Has U09.9 in Record,Mental Health Condition,270
+<18,male,Black or African American,Not Hispanic or Latino,Has U09.9 in Record,Mental Health Condition,57
+<18,female,Black or African American,Not Hispanic or Latino,Has U09.9 in Record,Mental Health Condition,58
+<18,female,Asian,Not Hispanic or Latino,Tested positive,Mental Health Condition,1223
+<18,female,Unknown,Not Hispanic or Latino,Tested positive,Mental Health Condition,2210
+<18,male,Black or African American,Not Hispanic or Latino,Has not tested positive,Mental Health Condition,33187
+<18,male,White,Not Hispanic or Latino,Has not tested positive,Mental Health Condition,84209
+<18,male,Black or African American,Not Hispanic or Latino,Tested positive,Mental Health Condition,12056
+<18,female,Other,Not Hispanic or Latino,Has not tested positive,Mental Health Condition,2323
+<18,female,Black or African American,Not Hispanic or Latino,Tested positive,Mental Health Condition,9389
+<18,female,Unknown,Not Hispanic or Latino,Has not tested positive,Mental Health Condition,6319
+<18,male,Other,Not Hispanic or Latino,Tested positive,Mental Health Condition,1029
+<18,male,White,Not Hispanic or Latino,Tested positive,Mental Health Condition,28134
+<18,male,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Has not tested positive,Mental Health Condition,228
+<18,female,White,Not Hispanic or Latino,Has not tested positive,Mental Health Condition,70190
+<18,unknown,White,Not Hispanic or Latino,Has not tested positive,Mental Health Condition,27
+<18,female,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Has not tested positive,Mental Health Condition,152
+<18,female,White,Not Hispanic or Latino,Tested positive,Mental Health Condition,24159
+<18,male,Asian,Not Hispanic or Latino,Tested positive,Mental Health Condition,1646
+<18,female,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Tested positive,Mental Health Condition,58
+<18,male,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Tested positive,Mental Health Condition,74
+<18,male,American Indian or Alaska Native,Not Hispanic or Latino,Has not tested positive,Mental Health Condition,657
+<18,female,Black or African American,Not Hispanic or Latino,Has not tested positive,Mental Health Condition,25115
+<18,female,Other,Not Hispanic or Latino,Tested positive,Mental Health Condition,846
+<18,male,White,Not Hispanic or Latino,Has U09.9 in Record,Mental Health Condition,216
+<18,female,American Indian or Alaska Native,Not Hispanic or Latino,Tested positive,Mental Health Condition,199
+<18,male,Unknown,Not Hispanic or Latino,Tested positive,Mental Health Condition,2865
+<18,female,Asian,Not Hispanic or Latino,Has not tested positive,Mental Health Condition,3676
+<18,female,American Indian or Alaska Native,Not Hispanic or Latino,Has not tested positive,Mental Health Condition,578
+<18,male,American Indian or Alaska Native,Not Hispanic or Latino,Tested positive,Mental Health Condition,222
+<18,male,Asian,Not Hispanic or Latino,Has not tested positive,Mental Health Condition,5016
+<18,male,Other,Not Hispanic or Latino,Has not tested positive,Mental Health Condition,2707
+<18,female,White,Unknown,Has not tested positive,Mental Health Condition,3917
+<18,male,White,Unknown,Has not tested positive,Mental Health Condition,4715
+<18,male,Black or African American,Unknown,Tested positive,Mental Health Condition,702
+<18,male,Other,Unknown,Tested positive,Mental Health Condition,235
+<18,male,Other,Unknown,Has not tested positive,Mental Health Condition,679
+<18,female,Native Hawaiian or Other Pacific Islander,Unknown,Has not tested positive,Mental Health Condition,34
+<18,female,Asian,Unknown,Tested positive,Mental Health Condition,83
+<18,male,Asian,Unknown,Has not tested positive,Mental Health Condition,324
+<18,male,Asian,Unknown,Tested positive,Mental Health Condition,119
+<18,female,Unknown,Unknown,Tested positive,Mental Health Condition,2522
+<18,female,Other,Unknown,Has not tested positive,Mental Health Condition,563
+<18,female,Unknown,Unknown,Has U09.9 in Record,Mental Health Condition,26
+<18,male,American Indian or Alaska Native,Unknown,Has not tested positive,Mental Health Condition,37
+<18,female,Black or African American,Unknown,Tested positive,Mental Health Condition,517
+<18,male,Native Hawaiian or Other Pacific Islander,Unknown,Has not tested positive,Mental Health Condition,37
+<18,male,Black or African American,Unknown,Has not tested positive,Mental Health Condition,2023
+<18,female,White,Unknown,Tested positive,Mental Health Condition,1557
+<18,male,Unknown,Unknown,Has not tested positive,Mental Health Condition,7812
+<18,male,White,Unknown,Has U09.9 in Record,Mental Health Condition,26
+<18,female,White,Unknown,Has U09.9 in Record,Mental Health Condition,22
+<18,female,Other,Unknown,Tested positive,Mental Health Condition,238
+<18,female,Black or African American,Unknown,Has not tested positive,Mental Health Condition,1697
+<18,female,Asian,Unknown,Has not tested positive,Mental Health Condition,255
+<18,female,Unknown,Unknown,Has not tested positive,Mental Health Condition,6634
+<18,male,Unknown,Unknown,Tested positive,Mental Health Condition,3091
+<18,female,American Indian or Alaska Native,Unknown,Has not tested positive,Mental Health Condition,30
+<18,male,White,Unknown,Tested positive,Mental Health Condition,1597
+Unknown,female,Unknown,Hispanic or Latino,Has not tested positive,Mental Health Condition,690
+Unknown,female,Black or African American,Hispanic or Latino,Has not tested positive,Mental Health Condition,62
+Unknown,male,White,Hispanic or Latino,Has not tested positive,Mental Health Condition,631
+Unknown,male,White,Hispanic or Latino,Tested positive,Mental Health Condition,324
+Unknown,male,Black or African American,Hispanic or Latino,Tested positive,Mental Health Condition,25
+Unknown,female,American Indian or Alaska Native,Hispanic or Latino,Has not tested positive,Mental Health Condition,22
+Unknown,male,Unknown,Hispanic or Latino,Has not tested positive,Mental Health Condition,616
+Unknown,female,Unknown,Hispanic or Latino,Tested positive,Mental Health Condition,413
+Unknown,female,White,Hispanic or Latino,Tested positive,Mental Health Condition,532
+Unknown,male,Black or African American,Hispanic or Latino,Has not tested positive,Mental Health Condition,40
+Unknown,male,Unknown,Hispanic or Latino,Tested positive,Mental Health Condition,263
+Unknown,female,White,Hispanic or Latino,Has not tested positive,Mental Health Condition,815
+Unknown,female,Black or African American,Hispanic or Latino,Tested positive,Mental Health Condition,40
+Unknown,female,Unknown,Not Hispanic or Latino,Has not tested positive,Mental Health Condition,494
+Unknown,male,Unknown,Not Hispanic or Latino,Has not tested positive,Mental Health Condition,463
+Unknown,female,White,Not Hispanic or Latino,Has not tested positive,Mental Health Condition,19458
+Unknown,female,Black or African American,Not Hispanic or Latino,Has U09.9 in Record,Mental Health Condition,68
+Unknown,male,White,Not Hispanic or Latino,Has U09.9 in Record,Mental Health Condition,180
+Unknown,female,White,Not Hispanic or Latino,Has U09.9 in Record,Mental Health Condition,265
+Unknown,female,Black or African American,Not Hispanic or Latino,Tested positive,Mental Health Condition,1882
+Unknown,male,Black or African American,Not Hispanic or Latino,Tested positive,Mental Health Condition,1269
+Unknown,male,White,Not Hispanic or Latino,Tested positive,Mental Health Condition,5247
+Unknown,male,Black or African American,Not Hispanic or Latino,Has U09.9 in Record,Mental Health Condition,27
+Unknown,female,Asian,Not Hispanic or Latino,Tested positive,Mental Health Condition,152
+Unknown,female,White,Not Hispanic or Latino,Tested positive,Mental Health Condition,7165
+Unknown,female,American Indian or Alaska Native,Not Hispanic or Latino,Has not tested positive,Mental Health Condition,126
+Unknown,male,American Indian or Alaska Native,Not Hispanic or Latino,Tested positive,Mental Health Condition,40
+Unknown,male,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Has not tested positive,Mental Health Condition,21
+Unknown,female,Other,Not Hispanic or Latino,Has not tested positive,Mental Health Condition,37
+Unknown,male,White,Not Hispanic or Latino,Has not tested positive,Mental Health Condition,15651
+Unknown,male,Black or African American,Not Hispanic or Latino,Has not tested positive,Mental Health Condition,4061
+Unknown,female,American Indian or Alaska Native,Not Hispanic or Latino,Tested positive,Mental Health Condition,53
+Unknown,female,Asian,Not Hispanic or Latino,Has not tested positive,Mental Health Condition,308
+Unknown,male,Unknown,Not Hispanic or Latino,Tested positive,Mental Health Condition,172
+Unknown,male,Asian,Not Hispanic or Latino,Has not tested positive,Mental Health Condition,271
+Unknown,female,Unknown,Not Hispanic or Latino,Tested positive,Mental Health Condition,189
+Unknown,male,Asian,Not Hispanic or Latino,Tested positive,Mental Health Condition,97
+Unknown,male,American Indian or Alaska Native,Not Hispanic or Latino,Has not tested positive,Mental Health Condition,99
+Unknown,male,Other,Not Hispanic or Latino,Has not tested positive,Mental Health Condition,25
+Unknown,female,Black or African American,Not Hispanic or Latino,Has not tested positive,Mental Health Condition,4887
+Unknown,female,White,Unknown,Has not tested positive,Mental Health Condition,682
+Unknown,male,White,Unknown,Has not tested positive,Mental Health Condition,615
+Unknown,female,Other,Unknown,Has not tested positive,Mental Health Condition,34
+Unknown,female,Unknown,Unknown,Tested positive,Mental Health Condition,274
+Unknown,male,Unknown,Unknown,Has not tested positive,Mental Health Condition,458
+Unknown,female,Unknown,Unknown,Has not tested positive,Mental Health Condition,480
+Unknown,male,Black or African American,Unknown,Has not tested positive,Mental Health Condition,164
+Unknown,male,Unknown,Unknown,Tested positive,Mental Health Condition,255
+Unknown,female,Asian,Unknown,Has not tested positive,Mental Health Condition,23
+Unknown,female,White,Unknown,Tested positive,Mental Health Condition,292
+Unknown,male,Asian,Unknown,Has not tested positive,Mental Health Condition,26
+Unknown,male,White,Unknown,Tested positive,Mental Health Condition,246
+Unknown,female,Black or African American,Unknown,Has not tested positive,Mental Health Condition,148
+Unknown,female,Black or African American,Unknown,Tested positive,Mental Health Condition,64
+Unknown,male,Black or African American,Unknown,Tested positive,Mental Health Condition,33
+Unknown,male,Other,Unknown,Has not tested positive,Mental Health Condition,50
+18-64,female,Native Hawaiian or Other Pacific Islander,Hispanic or Latino,Tested positive,Shortness of breath,151
+18-64,male,Unknown,Hispanic or Latino,Has not tested positive,Shortness of breath,15697
+18-64,female,American Indian or Alaska Native,Hispanic or Latino,Tested positive,Shortness of breath,348
+18-64,female,Unknown,Hispanic or Latino,Has not tested positive,Shortness of breath,23588
+18-64,male,Native Hawaiian or Other Pacific Islander,Hispanic or Latino,Has not tested positive,Shortness of breath,112
+18-64,male,Other,Hispanic or Latino,Has not tested positive,Shortness of breath,291
+18-64,female,Black or African American,Hispanic or Latino,Tested positive,Shortness of breath,1428
+18-64,male,White,Hispanic or Latino,Tested positive,Shortness of breath,10581
+18-64,female,Native Hawaiian or Other Pacific Islander,Hispanic or Latino,Has not tested positive,Shortness of breath,200
+18-64,female,Other,Hispanic or Latino,Has not tested positive,Shortness of breath,546
+18-64,female,American Indian or Alaska Native,Hispanic or Latino,Has not tested positive,Shortness of breath,376
+18-64,male,White,Hispanic or Latino,Has not tested positive,Shortness of breath,10031
+18-64,male,Asian,Hispanic or Latino,Has not tested positive,Shortness of breath,79
+18-64,female,White,Hispanic or Latino,Tested positive,Shortness of breath,17880
+18-64,female,Asian,Hispanic or Latino,Tested positive,Shortness of breath,144
+18-64,male,American Indian or Alaska Native,Hispanic or Latino,Has not tested positive,Shortness of breath,218
+18-64,female,Unknown,Hispanic or Latino,Tested positive,Shortness of breath,19996
+18-64,male,Other,Hispanic or Latino,Tested positive,Shortness of breath,611
+18-64,female,Other,Hispanic or Latino,Tested positive,Shortness of breath,835
+18-64,male,Native Hawaiian or Other Pacific Islander,Hispanic or Latino,Tested positive,Shortness of breath,97
+18-64,male,Asian,Hispanic or Latino,Tested positive,Shortness of breath,91
+18-64,male,Black or African American,Hispanic or Latino,Has not tested positive,Shortness of breath,891
+18-64,female,Black or African American,Hispanic or Latino,Has not tested positive,Shortness of breath,1745
+18-64,male,American Indian or Alaska Native,Hispanic or Latino,Tested positive,Shortness of breath,175
+18-64,female,White,Hispanic or Latino,Has U09.9 in Record,Shortness of breath,709
+18-64,female,Asian,Hispanic or Latino,Has not tested positive,Shortness of breath,129
+18-64,male,Unknown,Hispanic or Latino,Tested positive,Shortness of breath,13330
+18-64,male,Unknown,Hispanic or Latino,Has U09.9 in Record,Shortness of breath,379
+18-64,female,Unknown,Hispanic or Latino,Has U09.9 in Record,Shortness of breath,706
+18-64,male,White,Hispanic or Latino,Has U09.9 in Record,Shortness of breath,254
+18-64,female,Black or African American,Hispanic or Latino,Has U09.9 in Record,Shortness of breath,45
+18-64,male,Black or African American,Hispanic or Latino,Tested positive,Shortness of breath,686
+18-64,female,White,Hispanic or Latino,Has not tested positive,Shortness of breath,16558
+18-64,male,Unknown,Not Hispanic or Latino,Has U09.9 in Record,Shortness of breath,207
+18-64,female,Other,Not Hispanic or Latino,Has U09.9 in Record,Shortness of breath,39
+18-64,male,White,Not Hispanic or Latino,Has U09.9 in Record,Shortness of breath,3748
+18-64,female,White,Not Hispanic or Latino,Has not tested positive,Shortness of breath,219437
+18-64,male,Other,Not Hispanic or Latino,Tested positive,Shortness of breath,502
+18-64,female,Other,Not Hispanic or Latino,Has not tested positive,Shortness of breath,933
+18-64,female,American Indian or Alaska Native,Not Hispanic or Latino,Has not tested positive,Shortness of breath,2026
+18-64,female,Other,Not Hispanic or Latino,Tested positive,Shortness of breath,887
+18-64,male,White,Not Hispanic or Latino,Tested positive,Shortness of breath,107544
+18-64,male,Black or African American,Not Hispanic or Latino,Has not tested positive,Shortness of breath,58162
+18-64,female,Asian,Not Hispanic or Latino,Has not tested positive,Shortness of breath,7706
+18-64,male,Asian,Not Hispanic or Latino,Tested positive,Shortness of breath,3438
+18-64,female,Asian,Not Hispanic or Latino,Tested positive,Shortness of breath,5214
+18-64,male,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Has not tested positive,Shortness of breath,405
+18-64,female,White,Not Hispanic or Latino,Tested positive,Shortness of breath,168366
+18-64,unknown,White,Not Hispanic or Latino,Has not tested positive,Shortness of breath,33
+18-64,male,Black or African American,Not Hispanic or Latino,Tested positive,Shortness of breath,35098
+18-64,female,Black or African American,Not Hispanic or Latino,Tested positive,Shortness of breath,71187
+18-64,female,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Tested positive,Shortness of breath,387
+18-64,male,American Indian or Alaska Native,Not Hispanic or Latino,Tested positive,Shortness of breath,772
+18-64,female,Unknown,Not Hispanic or Latino,Has not tested positive,Shortness of breath,13080
+18-64,female,Unknown,Not Hispanic or Latino,Tested positive,Shortness of breath,8669
+18-64,female,American Indian or Alaska Native,Not Hispanic or Latino,Tested positive,Shortness of breath,1522
+18-64,male,Unknown,Not Hispanic or Latino,Tested positive,Shortness of breath,5669
+18-64,male,Other,Not Hispanic or Latino,Has not tested positive,Shortness of breath,486
+18-64,male,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Tested positive,Shortness of breath,235
+18-64,male,Asian,Not Hispanic or Latino,Has not tested positive,Shortness of breath,5202
+18-64,male,American Indian or Alaska Native,Not Hispanic or Latino,Has not tested positive,Shortness of breath,1114
+18-64,unknown,White,Not Hispanic or Latino,Tested positive,Shortness of breath,28
+18-64,male,Unknown,Not Hispanic or Latino,Has not tested positive,Shortness of breath,9140
+18-64,female,Black or African American,Not Hispanic or Latino,Has not tested positive,Shortness of breath,98423
+18-64,male,White,Not Hispanic or Latino,Has not tested positive,Shortness of breath,156772
+18-64,female,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Has not tested positive,Shortness of breath,538
+18-64,male,Asian,Not Hispanic or Latino,Has U09.9 in Record,Shortness of breath,113
+18-64,female,Asian,Not Hispanic or Latino,Has U09.9 in Record,Shortness of breath,217
+18-64,female,White,Not Hispanic or Latino,Has U09.9 in Record,Shortness of breath,7602
+18-64,male,Black or African American,Not Hispanic or Latino,Has U09.9 in Record,Shortness of breath,758
+18-64,female,Black or African American,Not Hispanic or Latino,Has U09.9 in Record,Shortness of breath,2335
+18-64,male,American Indian or Alaska Native,Not Hispanic or Latino,Has U09.9 in Record,Shortness of breath,43
+18-64,female,Unknown,Not Hispanic or Latino,Has U09.9 in Record,Shortness of breath,370
+18-64,female,American Indian or Alaska Native,Not Hispanic or Latino,Has U09.9 in Record,Shortness of breath,79
+18-64,male,Black or African American,Unknown,Tested positive,Shortness of breath,2947
+18-64,male,American Indian or Alaska Native,Unknown,Has not tested positive,Shortness of breath,161
+18-64,male,Asian,Unknown,Tested positive,Shortness of breath,539
+18-64,female,Black or African American,Unknown,Tested positive,Shortness of breath,4995
+18-64,male,Other,Unknown,Has not tested positive,Shortness of breath,694
+18-64,female,Asian,Unknown,Tested positive,Shortness of breath,828
+18-64,male,Black or African American,Unknown,Has U09.9 in Record,Shortness of breath,62
+18-64,female,Black or African American,Unknown,Has U09.9 in Record,Shortness of breath,141
+18-64,male,Unknown,Unknown,Has U09.9 in Record,Shortness of breath,154
+18-64,female,White,Unknown,Has U09.9 in Record,Shortness of breath,410
+18-64,male,White,Unknown,Has U09.9 in Record,Shortness of breath,234
+18-64,female,American Indian or Alaska Native,Unknown,Has not tested positive,Shortness of breath,254
+18-64,female,Other,Unknown,Has not tested positive,Shortness of breath,1006
+18-64,male,Black or African American,Unknown,Has not tested positive,Shortness of breath,4652
+18-64,female,Unknown,Unknown,Has U09.9 in Record,Shortness of breath,282
+18-64,female,Other,Unknown,Tested positive,Shortness of breath,695
+18-64,female,White,Unknown,Tested positive,Shortness of breath,14034
+18-64,female,White,Unknown,Has not tested positive,Shortness of breath,17286
+18-64,female,American Indian or Alaska Native,Unknown,Tested positive,Shortness of breath,217
+18-64,unknown,Unknown,Unknown,Has not tested positive,Shortness of breath,29
+18-64,unknown,Other,Unknown,Has not tested positive,Shortness of breath,65
+18-64,female,Black or African American,Unknown,Has not tested positive,Shortness of breath,6469
+18-64,male,Unknown,Unknown,Tested positive,Shortness of breath,6343
+18-64,male,Asian,Unknown,Has not tested positive,Shortness of breath,579
+18-64,male,White,Unknown,Has not tested positive,Shortness of breath,13420
+18-64,male,Unknown,Unknown,Has not tested positive,Shortness of breath,7540
+18-64,female,Native Hawaiian or Other Pacific Islander,Unknown,Has not tested positive,Shortness of breath,58
+18-64,female,Unknown,Unknown,Tested positive,Shortness of breath,7543
+18-64,male,Native Hawaiian or Other Pacific Islander,Unknown,Tested positive,Shortness of breath,54
+18-64,female,Unknown,Unknown,Has not tested positive,Shortness of breath,9467
+18-64,male,White,Unknown,Tested positive,Shortness of breath,10179
+18-64,unknown,Other,Unknown,Tested positive,Shortness of breath,26
+18-64,male,Native Hawaiian or Other Pacific Islander,Unknown,Has not tested positive,Shortness of breath,30
+18-64,unknown,Unknown,Unknown,Tested positive,Shortness of breath,27
+18-64,male,Other,Unknown,Tested positive,Shortness of breath,610
+18-64,female,Native Hawaiian or Other Pacific Islander,Unknown,Tested positive,Shortness of breath,54
+18-64,male,American Indian or Alaska Native,Unknown,Tested positive,Shortness of breath,103
+18-64,female,Asian,Unknown,Has not tested positive,Shortness of breath,917
+65+,male,Black or African American,Hispanic or Latino,Tested positive,Shortness of breath,247
+65+,female,Black or African American,Hispanic or Latino,Tested positive,Shortness of breath,358
+65+,female,Other,Hispanic or Latino,Tested positive,Shortness of breath,129
+65+,female,White,Hispanic or Latino,Has U09.9 in Record,Shortness of breath,123
+65+,male,Native Hawaiian or Other Pacific Islander,Hispanic or Latino,Has not tested positive,Shortness of breath,28
+65+,female,Other,Hispanic or Latino,Has not tested positive,Shortness of breath,80
+65+,male,American Indian or Alaska Native,Hispanic or Latino,Tested positive,Shortness of breath,38
+65+,female,White,Hispanic or Latino,Has not tested positive,Shortness of breath,5611
+65+,female,Native Hawaiian or Other Pacific Islander,Hispanic or Latino,Tested positive,Shortness of breath,32
+65+,male,Unknown,Hispanic or Latino,Has not tested positive,Shortness of breath,5884
+65+,male,Black or African American,Hispanic or Latino,Has not tested positive,Shortness of breath,353
+65+,female,American Indian or Alaska Native,Hispanic or Latino,Has not tested positive,Shortness of breath,68
+65+,male,White,Hispanic or Latino,Has not tested positive,Shortness of breath,4277
+65+,female,Unknown,Hispanic or Latino,Tested positive,Shortness of breath,5532
+65+,female,American Indian or Alaska Native,Hispanic or Latino,Tested positive,Shortness of breath,43
+65+,female,Asian,Hispanic or Latino,Tested positive,Shortness of breath,40
+65+,male,Unknown,Hispanic or Latino,Has U09.9 in Record,Shortness of breath,79
+65+,female,White,Hispanic or Latino,Tested positive,Shortness of breath,3801
+65+,male,American Indian or Alaska Native,Hispanic or Latino,Has not tested positive,Shortness of breath,49
+65+,female,Unknown,Hispanic or Latino,Has U09.9 in Record,Shortness of breath,169
+65+,male,White,Hispanic or Latino,Has U09.9 in Record,Shortness of breath,81
+65+,male,Other,Hispanic or Latino,Has not tested positive,Shortness of breath,62
+65+,male,Unknown,Hispanic or Latino,Tested positive,Shortness of breath,4176
+65+,male,Other,Hispanic or Latino,Tested positive,Shortness of breath,130
+65+,female,Black or African American,Hispanic or Latino,Has not tested positive,Shortness of breath,526
+65+,female,Native Hawaiian or Other Pacific Islander,Hispanic or Latino,Has not tested positive,Shortness of breath,43
+65+,male,Native Hawaiian or Other Pacific Islander,Hispanic or Latino,Tested positive,Shortness of breath,36
+65+,male,White,Hispanic or Latino,Tested positive,Shortness of breath,3242
+65+,female,Unknown,Hispanic or Latino,Has not tested positive,Shortness of breath,8468
+65+,female,Asian,Hispanic or Latino,Has not tested positive,Shortness of breath,50
+65+,male,Asian,Hispanic or Latino,Has not tested positive,Shortness of breath,37
+65+,female,Asian,Not Hispanic or Latino,Has U09.9 in Record,Shortness of breath,34
+65+,female,White,Not Hispanic or Latino,Has U09.9 in Record,Shortness of breath,2933
+65+,female,Black or African American,Not Hispanic or Latino,Has U09.9 in Record,Shortness of breath,540
+65+,male,Black or African American,Not Hispanic or Latino,Has U09.9 in Record,Shortness of breath,238
+65+,male,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Tested positive,Shortness of breath,81
+65+,male,Asian,Not Hispanic or Latino,Has not tested positive,Shortness of breath,3858
+65+,female,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Has not tested positive,Shortness of breath,157
+65+,male,American Indian or Alaska Native,Not Hispanic or Latino,Has not tested positive,Shortness of breath,522
+65+,female,White,Not Hispanic or Latino,Tested positive,Shortness of breath,88890
+65+,female,Black or African American,Not Hispanic or Latino,Tested positive,Shortness of breath,20236
+65+,male,Other,Not Hispanic or Latino,Has not tested positive,Shortness of breath,174
+65+,male,Black or African American,Not Hispanic or Latino,Tested positive,Shortness of breath,12356
+65+,female,Asian,Not Hispanic or Latino,Has not tested positive,Shortness of breath,4112
+65+,male,American Indian or Alaska Native,Not Hispanic or Latino,Tested positive,Shortness of breath,364
+65+,female,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Tested positive,Shortness of breath,70
+65+,male,Unknown,Not Hispanic or Latino,Tested positive,Shortness of breath,3366
+65+,male,Other,Not Hispanic or Latino,Tested positive,Shortness of breath,132
+65+,male,White,Not Hispanic or Latino,Has not tested positive,Shortness of breath,162405
+65+,female,Asian,Not Hispanic or Latino,Tested positive,Shortness of breath,1958
+65+,male,Black or African American,Not Hispanic or Latino,Has not tested positive,Shortness of breath,26195
+65+,female,Unknown,Not Hispanic or Latino,Tested positive,Shortness of breath,3711
+65+,female,Other,Not Hispanic or Latino,Has not tested positive,Shortness of breath,226
+65+,female,Black or African American,Not Hispanic or Latino,Has not tested positive,Shortness of breath,41354
+65+,female,American Indian or Alaska Native,Not Hispanic or Latino,Has not tested positive,Shortness of breath,800
+65+,male,Asian,Not Hispanic or Latino,Tested positive,Shortness of breath,1916
+65+,female,Other,Not Hispanic or Latino,Tested positive,Shortness of breath,170
+65+,female,White,Not Hispanic or Latino,Has not tested positive,Shortness of breath,189953
+65+,female,American Indian or Alaska Native,Not Hispanic or Latino,Tested positive,Shortness of breath,479
+65+,female,Unknown,Not Hispanic or Latino,Has not tested positive,Shortness of breath,7633
+65+,male,White,Not Hispanic or Latino,Tested positive,Shortness of breath,79741
+65+,male,Unknown,Not Hispanic or Latino,Has not tested positive,Shortness of breath,6630
+65+,male,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Has not tested positive,Shortness of breath,143
+65+,male,Unknown,Not Hispanic or Latino,Has U09.9 in Record,Shortness of breath,68
+65+,female,Unknown,Not Hispanic or Latino,Has U09.9 in Record,Shortness of breath,85
+65+,male,Asian,Not Hispanic or Latino,Has U09.9 in Record,Shortness of breath,39
+65+,female,American Indian or Alaska Native,Not Hispanic or Latino,Has U09.9 in Record,Shortness of breath,26
+65+,male,White,Not Hispanic or Latino,Has U09.9 in Record,Shortness of breath,2298
+65+,male,American Indian or Alaska Native,Unknown,Tested positive,Shortness of breath,28
+65+,male,Black or African American,Unknown,Tested positive,Shortness of breath,888
+65+,female,Unknown,Unknown,Has U09.9 in Record,Shortness of breath,85
+65+,female,American Indian or Alaska Native,Unknown,Has not tested positive,Shortness of breath,80
+65+,female,Black or African American,Unknown,Has U09.9 in Record,Shortness of breath,27
+65+,male,White,Unknown,Has U09.9 in Record,Shortness of breath,116
+65+,male,Other,Unknown,Tested positive,Shortness of breath,181
+65+,female,Other,Unknown,Tested positive,Shortness of breath,149
+65+,male,Asian,Unknown,Has not tested positive,Shortness of breath,355
+65+,female,White,Unknown,Has not tested positive,Shortness of breath,12930
+65+,male,White,Unknown,Has not tested positive,Shortness of breath,11464
+65+,male,Black or African American,Unknown,Has not tested positive,Shortness of breath,1560
+65+,male,White,Unknown,Tested positive,Shortness of breath,6642
+65+,male,Asian,Unknown,Tested positive,Shortness of breath,211
+65+,female,Asian,Unknown,Tested positive,Shortness of breath,267
+65+,female,American Indian or Alaska Native,Unknown,Tested positive,Shortness of breath,42
+65+,female,Black or African American,Unknown,Tested positive,Shortness of breath,1251
+65+,male,American Indian or Alaska Native,Unknown,Has not tested positive,Shortness of breath,77
+65+,female,White,Unknown,Tested positive,Shortness of breath,7192
+65+,male,Unknown,Unknown,Has U09.9 in Record,Shortness of breath,66
+65+,female,Black or African American,Unknown,Has not tested positive,Shortness of breath,2430
+65+,female,Other,Unknown,Has not tested positive,Shortness of breath,320
+65+,female,White,Unknown,Has U09.9 in Record,Shortness of breath,135
+65+,male,Other,Unknown,Has not tested positive,Shortness of breath,365
+65+,female,Unknown,Unknown,Has not tested positive,Shortness of breath,4365
+65+,male,Unknown,Unknown,Has not tested positive,Shortness of breath,3865
+65+,female,Unknown,Unknown,Tested positive,Shortness of breath,2460
+65+,male,Unknown,Unknown,Tested positive,Shortness of breath,2300
+65+,female,Asian,Unknown,Has not tested positive,Shortness of breath,391
+<18,female,White,Hispanic or Latino,Has not tested positive,Shortness of breath,1574
+<18,male,Black or African American,Hispanic or Latino,Has not tested positive,Shortness of breath,244
+<18,male,Unknown,Hispanic or Latino,Tested positive,Shortness of breath,974
+<18,male,White,Hispanic or Latino,Tested positive,Shortness of breath,966
+<18,female,American Indian or Alaska Native,Hispanic or Latino,Has not tested positive,Shortness of breath,31
+<18,male,Black or African American,Hispanic or Latino,Tested positive,Shortness of breath,108
+<18,male,Other,Hispanic or Latino,Has not tested positive,Shortness of breath,119
+<18,female,White,Hispanic or Latino,Tested positive,Shortness of breath,947
+<18,male,Unknown,Hispanic or Latino,Has not tested positive,Shortness of breath,2301
+<18,female,Unknown,Hispanic or Latino,Tested positive,Shortness of breath,873
+<18,female,Black or African American,Hispanic or Latino,Tested positive,Shortness of breath,105
+<18,female,Unknown,Hispanic or Latino,Has not tested positive,Shortness of breath,2005
+<18,male,White,Hispanic or Latino,Has not tested positive,Shortness of breath,1799
+<18,female,Other,Hispanic or Latino,Has not tested positive,Shortness of breath,148
+<18,female,Other,Hispanic or Latino,Tested positive,Shortness of breath,99
+<18,male,Other,Hispanic or Latino,Tested positive,Shortness of breath,95
+<18,female,Black or African American,Hispanic or Latino,Has not tested positive,Shortness of breath,205
+<18,male,Black or African American,Not Hispanic or Latino,Has U09.9 in Record,Shortness of breath,23
+<18,female,Black or African American,Not Hispanic or Latino,Has U09.9 in Record,Shortness of breath,27
+<18,male,Black or African American,Not Hispanic or Latino,Tested positive,Shortness of breath,2710
+<18,male,Unknown,Not Hispanic or Latino,Has not tested positive,Shortness of breath,1183
+<18,female,Black or African American,Not Hispanic or Latino,Tested positive,Shortness of breath,2651
+<18,female,American Indian or Alaska Native,Not Hispanic or Latino,Tested positive,Shortness of breath,40
+<18,male,Black or African American,Not Hispanic or Latino,Has not tested positive,Shortness of breath,6421
+<18,female,Asian,Not Hispanic or Latino,Has not tested positive,Shortness of breath,354
+<18,male,Unknown,Not Hispanic or Latino,Tested positive,Shortness of breath,403
+<18,male,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Has not tested positive,Shortness of breath,25
+<18,male,American Indian or Alaska Native,Not Hispanic or Latino,Has not tested positive,Shortness of breath,77
+<18,female,Unknown,Not Hispanic or Latino,Tested positive,Shortness of breath,419
+<18,female,Asian,Not Hispanic or Latino,Tested positive,Shortness of breath,158
+<18,male,Other,Not Hispanic or Latino,Has not tested positive,Shortness of breath,125
+<18,male,Asian,Not Hispanic or Latino,Tested positive,Shortness of breath,232
+<18,female,Other,Not Hispanic or Latino,Has not tested positive,Shortness of breath,106
+<18,female,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Has not tested positive,Shortness of breath,22
+<18,female,Black or African American,Not Hispanic or Latino,Has not tested positive,Shortness of breath,5604
+<18,male,Asian,Not Hispanic or Latino,Has not tested positive,Shortness of breath,493
+<18,male,American Indian or Alaska Native,Not Hispanic or Latino,Tested positive,Shortness of breath,31
+<18,female,White,Not Hispanic or Latino,Tested positive,Shortness of breath,5905
+<18,female,American Indian or Alaska Native,Not Hispanic or Latino,Has not tested positive,Shortness of breath,68
+<18,female,Unknown,Not Hispanic or Latino,Has not tested positive,Shortness of breath,907
+<18,male,Other,Not Hispanic or Latino,Tested positive,Shortness of breath,101
+<18,female,Other,Not Hispanic or Latino,Tested positive,Shortness of breath,98
+<18,male,White,Not Hispanic or Latino,Tested positive,Shortness of breath,5491
+<18,female,White,Not Hispanic or Latino,Has not tested positive,Shortness of breath,9475
+<18,male,White,Not Hispanic or Latino,Has not tested positive,Shortness of breath,10495
+<18,female,White,Not Hispanic or Latino,Has U09.9 in Record,Shortness of breath,137
+<18,male,White,Not Hispanic or Latino,Has U09.9 in Record,Shortness of breath,104
+<18,female,Unknown,Unknown,Tested positive,Shortness of breath,376
+<18,female,Black or African American,Unknown,Tested positive,Shortness of breath,249
+<18,female,Black or African American,Unknown,Has not tested positive,Shortness of breath,542
+<18,female,White,Unknown,Tested positive,Shortness of breath,593
+<18,male,Unknown,Unknown,Tested positive,Shortness of breath,463
+<18,female,White,Unknown,Has not tested positive,Shortness of breath,1133
+<18,male,White,Unknown,Tested positive,Shortness of breath,622
+<18,male,Asian,Unknown,Tested positive,Shortness of breath,37
+<18,female,Asian,Unknown,Has not tested positive,Shortness of breath,53
+<18,female,Asian,Unknown,Tested positive,Shortness of breath,30
+<18,male,Asian,Unknown,Has not tested positive,Shortness of breath,87
+<18,male,White,Unknown,Has not tested positive,Shortness of breath,1280
+<18,female,Unknown,Unknown,Has not tested positive,Shortness of breath,785
+<18,male,Unknown,Unknown,Has not tested positive,Shortness of breath,822
+<18,male,Other,Unknown,Has not tested positive,Shortness of breath,31
+<18,male,Other,Unknown,Tested positive,Shortness of breath,22
+<18,male,Black or African American,Unknown,Tested positive,Shortness of breath,233
+<18,male,Black or African American,Unknown,Has not tested positive,Shortness of breath,671
+<18,female,Other,Unknown,Tested positive,Shortness of breath,27
+<18,female,Other,Unknown,Has not tested positive,Shortness of breath,33
+Unknown,male,Black or African American,Hispanic or Latino,Has not tested positive,Shortness of breath,21
+Unknown,female,Black or African American,Hispanic or Latino,Tested positive,Shortness of breath,23
+Unknown,female,Black or African American,Hispanic or Latino,Has not tested positive,Shortness of breath,23
+Unknown,male,Unknown,Hispanic or Latino,Has not tested positive,Shortness of breath,398
+Unknown,male,White,Hispanic or Latino,Tested positive,Shortness of breath,269
+Unknown,female,White,Hispanic or Latino,Has not tested positive,Shortness of breath,331
+Unknown,male,White,Hispanic or Latino,Has not tested positive,Shortness of breath,297
+Unknown,female,Unknown,Hispanic or Latino,Has not tested positive,Shortness of breath,462
+Unknown,female,White,Hispanic or Latino,Tested positive,Shortness of breath,329
+Unknown,female,Unknown,Hispanic or Latino,Tested positive,Shortness of breath,333
+Unknown,male,Unknown,Hispanic or Latino,Tested positive,Shortness of breath,331
+Unknown,female,Black or African American,Not Hispanic or Latino,Has U09.9 in Record,Shortness of breath,70
+Unknown,female,American Indian or Alaska Native,Not Hispanic or Latino,Has not tested positive,Shortness of breath,43
+Unknown,male,Black or African American,Not Hispanic or Latino,Has not tested positive,Shortness of breath,2129
+Unknown,male,Unknown,Not Hispanic or Latino,Has not tested positive,Shortness of breath,235
+Unknown,female,Black or African American,Not Hispanic or Latino,Tested positive,Shortness of breath,1687
+Unknown,female,Asian,Not Hispanic or Latino,Has not tested positive,Shortness of breath,216
+Unknown,male,American Indian or Alaska Native,Not Hispanic or Latino,Tested positive,Shortness of breath,35
+Unknown,male,American Indian or Alaska Native,Not Hispanic or Latino,Has not tested positive,Shortness of breath,42
+Unknown,male,Unknown,Not Hispanic or Latino,Tested positive,Shortness of breath,141
+Unknown,male,Asian,Not Hispanic or Latino,Has not tested positive,Shortness of breath,176
+Unknown,female,White,Not Hispanic or Latino,Tested positive,Shortness of breath,4920
+Unknown,female,American Indian or Alaska Native,Not Hispanic or Latino,Tested positive,Shortness of breath,31
+Unknown,female,White,Not Hispanic or Latino,Has not tested positive,Shortness of breath,8452
+Unknown,male,Asian,Not Hispanic or Latino,Tested positive,Shortness of breath,114
+Unknown,female,Asian,Not Hispanic or Latino,Tested positive,Shortness of breath,120
+Unknown,male,Black or African American,Not Hispanic or Latino,Tested positive,Shortness of breath,1083
+Unknown,female,Unknown,Not Hispanic or Latino,Tested positive,Shortness of breath,118
+Unknown,female,Unknown,Not Hispanic or Latino,Has not tested positive,Shortness of breath,276
+Unknown,male,White,Not Hispanic or Latino,Has not tested positive,Shortness of breath,7867
+Unknown,female,Black or African American,Not Hispanic or Latino,Has not tested positive,Shortness of breath,2945
+Unknown,male,White,Not Hispanic or Latino,Tested positive,Shortness of breath,4467
+Unknown,male,Black or African American,Not Hispanic or Latino,Has U09.9 in Record,Shortness of breath,30
+Unknown,male,White,Not Hispanic or Latino,Has U09.9 in Record,Shortness of breath,174
+Unknown,female,White,Not Hispanic or Latino,Has U09.9 in Record,Shortness of breath,214
+Unknown,male,Unknown,Unknown,Has not tested positive,Shortness of breath,257
+Unknown,female,Unknown,Unknown,Tested positive,Shortness of breath,180
+Unknown,female,Asian,Unknown,Tested positive,Shortness of breath,40
+Unknown,female,White,Unknown,Has not tested positive,Shortness of breath,1468
+Unknown,male,White,Unknown,Tested positive,Shortness of breath,823
+Unknown,female,Unknown,Unknown,Has not tested positive,Shortness of breath,255
+Unknown,female,Black or African American,Unknown,Has not tested positive,Shortness of breath,198
+Unknown,female,Black or African American,Unknown,Tested positive,Shortness of breath,99
+Unknown,female,Other,Unknown,Has not tested positive,Shortness of breath,24
+Unknown,male,Black or African American,Unknown,Has not tested positive,Shortness of breath,174
+Unknown,male,Asian,Unknown,Has not tested positive,Shortness of breath,41
+Unknown,female,Asian,Unknown,Has not tested positive,Shortness of breath,44
+Unknown,male,Black or African American,Unknown,Tested positive,Shortness of breath,76
+Unknown,female,White,Unknown,Tested positive,Shortness of breath,1131
+Unknown,male,Other,Unknown,Has not tested positive,Shortness of breath,26
+Unknown,male,Unknown,Unknown,Tested positive,Shortness of breath,192
+Unknown,male,White,Unknown,Has not tested positive,Shortness of breath,1157
