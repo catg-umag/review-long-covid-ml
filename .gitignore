@@ -1,0 +1,7 @@
+.Rhistory
+.RData
+
+.py[cod]
+__pycache__/
+
+*.pdf
