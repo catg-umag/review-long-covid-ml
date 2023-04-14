@@ -25,12 +25,6 @@ categories <- c(
   "Tested positive:65+", "Tested positive:18-64", "Tested positive:<18"
 )
 
-labels <- list(
-  "Fatigue" = "F",
-  "Mental Health Condition" = "MHC",
-  "Shortness of breath" = "SoB"
-)
-
 
 make_plot <- function() {
   circos.par(start.degree = 85, gap.degree = c(0, 0, 10, 0, 0, 10))
