@@ -1,6 +1,6 @@
-# Support repository
+# 10.3389/fpubh.2023.1140353 support repository
 
-This is the code / data repository for "The role of machine learning in health policies during the COVID-19 pandemic and in long COVID management" (Frontiers in Public Health).
+This is the code / data repository for [The role of machine learning in health policies during the COVID-19 pandemic and in long COVID management](https://www.frontiersin.org/articles/10.3389/fpubh.2023.1140353/full) (Frontiers in Public Health).
 
 ## What does it contain?
 
