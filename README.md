@@ -1,6 +1,6 @@
 # Support repository
 
-This is the code / data repository for our review titled "<WIP>".
+This is the code / data repository for "The role of machine learning in health policies during the COVID-19 pandemic and in long COVID management" (Frontiers in Public Health).
 
 ## What does it contain?
 
